@@ -1,4 +1,4 @@
 AFRAME.registerComponent("play-on-click", {
- //Add code here
+ //Añadimos el código aquí.
   
 });
